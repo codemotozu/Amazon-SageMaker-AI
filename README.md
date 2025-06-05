@@ -36,7 +36,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 1: SageMaker Studio main interface showing project organization and resource management*
 
-## 2. Security Configuration and Access Management
+### 2. Security Configuration and Access Management
 **Demonstrating IAM setup and security policies for SageMaker workloads**
 
 ![Development Environment](https://github.com/user-attachments/assets/9d8a2fa4-c931-40cb-9178-3a2cf69421d3)
@@ -50,14 +50,14 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 3: SageMaker Endpoints console showing deployed inference endpoints with HuggingFace PyTorch model - demonstrating real-time model deployment and endpoint management capabilities*
 
-## 4. Workspace Management and Project Organization
+### 4. Workspace Management and Project Organization
 **Demonstrating Studio workspace setup and development environment navigation**
 
 ![Experiment Tracking](https://github.com/user-attachments/assets/3fc625b6-e04b-4ea2-8661-a5ad9a31a50c)
 
 *Screenshot 4: SageMaker Studio main dashboard showing workspace overview, recent spaces, and available applications - demonstrating familiarity with the Studio development environment and project organization*
 
-## 5. Infrastructure and Domain Configuration
+### 5. Infrastructure and Domain Configuration
 **Demonstrating enterprise-level domain setup and multi-user environment administration**
 
 ![Training Metrics](https://github.com/user-attachments/assets/eb9e3356-b6a3-4b37-b836-7d81c954bd3b)
@@ -71,7 +71,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 6: Jupyter notebook in SageMaker Studio showing exploratory data analysis and model development workflow - demonstrating hands-on ML development and experimentation capabilities*
 
-## 7. Advanced Model Development and ML Pipelines
+### 7. Advanced Model Development and ML Pipelines
 **Demonstrating complex ML pipeline implementation with transformers and feature engineering**
 
 ![Model Package Management](https://github.com/user-attachments/assets/76bf6956-bf2d-49cf-95be-77478ea9ce3a)
@@ -85,12 +85,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 8: Endpoint configuration with auto-scaling policies and instance type optimization*
 
-### 9. add title
-**add subtitle**
+### 9. Hyperparameter Optimization and Model Tuning
+**Demonstrating automated model optimization and experiment tracking**
 
 ![Endpoint Monitoring](https://github.com/user-attachments/assets/d393e01c-92f4-4602-9064-305f925d2233)
 
-*Screenshot 9: Real-time endpoint monitoring dashboard with latency and throughput metrics*
+*Screenshot 9: Model experimentation notebook showing hyperparameter tuning and optimization workflows - demonstrating systematic approach to model improvement and performance optimization*
 
 ### 10. add title
 **add subtitle**
