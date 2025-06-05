@@ -155,12 +155,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 18: Advanced preprocessing showing categorical encoding and data transformation - demonstrating complex feature engineering methodologies*
 
-### 19. add title
-**add subtitle**
+### 19. Production Data Processing Workflows  
+**Showcasing systematic data processing and manipulation operations**
 
 ![Processing Results](https://github.com/user-attachments/assets/b2fd21dd-019b-4667-b554-5b8e4bfc7df7)
 
-*Screenshot 19: Batch processing results and output management*
+*Screenshot 19: Data processing workflows showing filtering and manipulation operations - demonstrating production-ready data processing capabilities*
 
 
 ### 20. add title
