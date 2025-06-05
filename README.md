@@ -38,7 +38,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 ![Development Environment](https://github.com/user-attachments/assets/9d8a2fa4-c931-40cb-9178-3a2cf69421d3)
 
-*Screenshot 2: Studio environment with active notebooks and kernel management*
+*Screenshot 2: AWS IAM console showing SageMaker execution role permissions and security policies - demonstrating proper security configuration and access management for ML workloads*
 
 ### 2. Model Training and Experimentation
 **Showcasing training job configuration and experiment tracking**
