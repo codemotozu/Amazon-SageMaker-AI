@@ -78,71 +78,94 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 7: Advanced model development in Jupyter notebook showing ML pipeline implementation with transformers and feature engineering - demonstrating complex model training and experimentation workflows*
 
-### 7. Endpoint Deployment and Management
+### 8. Endpoint Deployment and Management
 **Showcasing real-time inference infrastructure**
 
 ![Endpoint Configuration](https://github.com/user-attachments/assets/d9e0f1ca-9ef7-41ac-9b41-e183a85d7d7b)
 
 *Screenshot 8: Endpoint configuration with auto-scaling policies and instance type optimization*
 
+### 9. add title
+**add subtitle**
+
 ![Endpoint Monitoring](https://github.com/user-attachments/assets/d393e01c-92f4-4602-9064-305f925d2233)
 
 *Screenshot 9: Real-time endpoint monitoring dashboard with latency and throughput metrics*
+
+### 10. add title
+**add subtitle**
 
 ![Multi-Model Endpoints](https://github.com/user-attachments/assets/025cc52d-7bf6-4850-a1ee-3063b1459477)
 
 *Screenshot 10: Multi-model endpoint configuration for cost-effective model hosting*
 
-### 8. SageMaker Pipelines and Automation
-**Demonstrating MLOps pipeline implementation**
+### 11. add title
+**add subtitle**
 
 ![Pipeline Overview](https://github.com/user-attachments/assets/aaa3cded-fe42-48bf-8625-f7dc579a66a3)
 
 *Screenshot 11: SageMaker Pipelines DAG visualization showing automated ML workflow*
 
+### 12. add title
+**add subtitle**
+
 ![Pipeline Execution](https://github.com/user-attachments/assets/298a0cd1-327f-4fde-a197-bf63ece465f5)
 
 *Screenshot 12: Pipeline execution details with step-by-step progress tracking*
+
+### 13. add title
+**add subtitle**
 
 ![Automated Workflows](https://github.com/user-attachments/assets/fee3accc-2271-4db3-a883-4a12fa50e1fd)
 
 *Screenshot 13: Scheduled pipeline executions and trigger configurations*
 
-### 9. Data Processing and Feature Engineering
-**Showcasing data preparation workflows**
+### 14. add title
+**add subtitle**
 
 ![Data Processing](https://github.com/user-attachments/assets/3ef212cf-d49f-4f96-a8b0-9d3163715805)
 
 *Screenshot 14: SageMaker Processing jobs for data transformation and feature engineering*
 
+### 15. add title
+**add subtitle**
+
 ![Feature Store](https://github.com/user-attachments/assets/8828b443-2007-47cc-853b-5c65073f0546)
 
 *Screenshot 15: SageMaker Feature Store implementation for feature management and reuse*
 
-### 10. Model Monitoring and Data Quality
-**Demonstrating production model oversight**
+
+### 16. add title
+**add subtitle**
 
 ![Model Monitoring](https://github.com/user-attachments/assets/18fa9d43-62c2-4120-ae38-858dfcdff477)
 
 *Screenshot 16: Model Monitor configuration for data drift and quality detection*
 
+### 17. add title
+**add subtitle**
+
 ![Data Quality Metrics](https://github.com/user-attachments/assets/404ca3fa-a7b3-4e29-832d-2772299ad1cd)
 
 *Screenshot 17: Data quality monitoring dashboard with statistical analysis*
 
-### 11. Batch Processing and Inference
-**Showcasing offline processing capabilities**
+### 18. add title
+**add subtitle**
 
 ![Batch Transform](https://github.com/user-attachments/assets/baa9711c-055f-43fd-9854-e7c6a6e86af4)
 
 *Screenshot 18: Batch transform job configuration for large-scale offline inference*
 
+### 19. add title
+**add subtitle**
+
 ![Processing Results](https://github.com/user-attachments/assets/b2fd21dd-019b-4667-b554-5b8e4bfc7df7)
 
 *Screenshot 19: Batch processing results and output management*
 
-### 12. Cost Optimization and Resource Management
-**Demonstrating efficient resource utilization**
+
+### 20. add title
+**add subtitle**
 
 ![Cost Optimization](https://github.com/user-attachments/assets/7592db08-531b-4ac6-9c94-23cb3fb4b440)
 
