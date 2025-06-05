@@ -141,12 +141,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 16: Batch processing operations showing large-scale data handling and transformation workflows - demonstrating production-ready batch processing capabilities*
 
-### 17. add title
-**add subtitle**
+### 17. Data Profiling and Statistical Analysis
+**Demonstrating comprehensive data profiling and statistical assessment workflows**
 
 ![Data Quality Metrics](https://github.com/user-attachments/assets/404ca3fa-a7b3-4e29-832d-2772299ad1cd)
 
-*Screenshot 17: Data quality monitoring dashboard with statistical analysis*
+*Screenshot 17: Data profiling notebook showing statistical analysis and data characterization - demonstrating systematic data profiling and statistical assessment capabilities*
 
 ### 18. add title
 **add subtitle**
