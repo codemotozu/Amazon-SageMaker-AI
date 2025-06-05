@@ -49,7 +49,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 ![Experiment Tracking](https://github.com/user-attachments/assets/3fc625b6-e04b-4ea2-8661-a5ad9a31a50c)
 
-*Screenshot 4: SageMaker Experiments interface showing model performance tracking and comparison*
+*Screenshot 4: SageMaker Studio main dashboard showing workspace overview, recent spaces, and available applications - demonstrating familiarity with the Studio development environment and project organization*
 
 ![Training Metrics](https://github.com/user-attachments/assets/eb9e3356-b6a3-4b37-b836-7d81c954bd3b)
 
