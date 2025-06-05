@@ -106,12 +106,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 11: Feature engineering notebook showing data encoding and transformation pipelines - demonstrating advanced data preprocessing and feature preparation techniques*
 
-### 12. add title
-**add subtitle**
+### 12. Model Training and Execution
+**Demonstrating production model training workflows and execution monitoring**
 
 ![Pipeline Execution](https://github.com/user-attachments/assets/298a0cd1-327f-4fde-a197-bf63ece465f5)
 
-*Screenshot 12: Pipeline execution details with step-by-step progress tracking*
+*Screenshot 12: Model training execution showing DistilBert implementation and training workflow - demonstrating production-ready model training and execution monitoring*
 
 ### 13. add title
 **add subtitle**
