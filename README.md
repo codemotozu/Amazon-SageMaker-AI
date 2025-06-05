@@ -127,13 +127,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 14: SageMaker Processing jobs for data transformation and feature engineering*
 
-### 15. add title
-**add subtitle**
+### 15. Data Quality Assessment and Validation
+**Demonstrating comprehensive data validation and quality assurance workflows**
 
 ![Feature Store](https://github.com/user-attachments/assets/8828b443-2007-47cc-853b-5c65073f0546)
 
-*Screenshot 15: SageMaker Feature Store implementation for feature management and reuse*
-
+*Screenshot 15: Data quality assessment notebook showing validation workflows and data integrity checks - demonstrating systematic data quality assurance processes*
 
 ### 16. add title
 **add subtitle**
