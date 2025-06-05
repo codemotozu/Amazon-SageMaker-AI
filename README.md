@@ -113,12 +113,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 12: Model training execution showing DistilBert implementation and training workflow - demonstrating production-ready model training and execution monitoring*
 
-### 13. add title
-**add subtitle**
+### 13. Model Registry and Deployment Pipeline
+**Demonstrating model packaging and automated deployment workflows**
 
 ![Automated Workflows](https://github.com/user-attachments/assets/fee3accc-2271-4db3-a883-4a12fa50e1fd)
 
-*Screenshot 13: Scheduled pipeline executions and trigger configurations*
+*Screenshot 13: Model deployment notebook showing SageMaker model registry integration and deployment pipeline - demonstrating production model packaging and deployment automation*
 
 ### 14. add title
 **add subtitle**
