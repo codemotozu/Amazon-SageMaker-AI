@@ -92,12 +92,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 9: Model experimentation notebook showing hyperparameter tuning and optimization workflows - demonstrating systematic approach to model improvement and performance optimization*
 
-### 10. add title
-**add subtitle**
+### 10. Model Evaluation and Performance Analysis
+**Showcasing model validation and result interpretation workflows**
 
 ![Multi-Model Endpoints](https://github.com/user-attachments/assets/025cc52d-7bf6-4850-a1ee-3063b1459477)
 
-*Screenshot 10: Multi-model endpoint configuration for cost-effective model hosting*
+*Screenshot 10: Model evaluation notebook displaying prediction results and performance analysis - demonstrating comprehensive model assessment and validation methodologies*
 
 ### 11. add title
 **add subtitle**
