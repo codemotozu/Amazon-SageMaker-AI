@@ -73,7 +73,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 ![Model Package Management](https://github.com/user-attachments/assets/76bf6956-bf2d-49cf-95be-77478ea9ce3a)
 
-*Screenshot 7: Model package creation and metadata management for production deployment*
+*Screenshot 7: Advanced model development in Jupyter notebook showing ML pipeline implementation with transformers and feature engineering - demonstrating complex model training and experimentation workflows*
 
 ### 7. Endpoint Deployment and Management
 **Showcasing real-time inference infrastructure**
