@@ -148,12 +148,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 17: Data profiling notebook showing statistical analysis and data characterization - demonstrating systematic data profiling and statistical assessment capabilities*
 
-### 18. add title
-**add subtitle**
+### 18. Advanced Data Preprocessing and Encoding
+**Showcasing sophisticated data preprocessing and feature transformation workflows**
 
 ![Batch Transform](https://github.com/user-attachments/assets/baa9711c-055f-43fd-9854-e7c6a6e86af4)
 
-*Screenshot 18: Batch transform job configuration for large-scale offline inference*
+*Screenshot 18: Advanced preprocessing showing categorical encoding and data transformation - demonstrating complex feature engineering methodologies*
 
 ### 19. add title
 **add subtitle**
