@@ -45,85 +45,85 @@ Developed an enterprise-grade text classification system capable of automaticall
 
 ## 🔬 Detailed Technical Implementation
 
-### 1. **Python Data Processing Script Development**
+### 1. **Data Preprocessing Script Development**
 ![Image 1](https://github.com/user-attachments/assets/e9b9a221-0e21-4e11-879e-06b74abb9f8b)
-*SageMaker Studio IDE showing scripty.py with advanced Python code for text classification, including torch, transformers, and data preprocessing functions with categorical encoding.*
+*Custom Python script (script.py) implementing data preprocessing functions with ML libraries (torch, numpy, transformers) for text classification pipeline and category encoding.*
 
 ### 2. **SageMaker Training Job Configuration**
 ![Image 2](https://github.com/user-attachments/assets/3c2641de-9c3c-4439-a5fc-86f38067cfaa)
-*TrainingNotebook.ipynb demonstrating HuggingFace estimator setup in SageMaker with proper IAM role configuration, hyperparameters, and training job execution.*
+*TrainingNotebook.ipynb showing HuggingFace estimator setup with proper execution role, hyperparameters (epochs=12, train_batch_size=16, learning_rate=5e-05), and SageMaker training configuration.*
 
-### 3. **Data Ingestion & UCI Dataset Integration**
+### 3. **UCI News Dataset Integration**
 ![Image 3](https://github.com/user-attachments/assets/d110d13f-9ae9-4d22-ac71-fe94e29b4979)
-*OptionalExperimentNotebook.ipynb showing data loading pipeline from UCI News Aggregator dataset with URL retrieval, extraction, and preprocessing workflow.*
+*OptionalExperimentNotebook.ipynb demonstrating automated dataset download from UCI repository, data extraction, and initial preprocessing for news aggregator data.*
 
-### 4. **Large-Scale Dataset Analysis Results**
+### 4. **Dataset Loading and Validation**
 ![Image 4](https://github.com/user-attachments/assets/16ecb080-18ac-4f6b-8f0d-89ff972421da)
-*Dataset analysis output showing successful loading of 422,419 news articles with category distribution: Entertainment (159,469), Business (115,967), Science (108,344), Health (45,639).*
+*Successful dataset loading showing 422,419 rows with categories (Entertainment: 159,469, Business: 115,967, Science: 108,344, Health: 45,639) and sample data inspection.*
 
-### 5. **Text Preprocessing & Feature Engineering**
+### 5. **Category Encoding Implementation**
 ![Image 5](https://github.com/user-attachments/assets/dca67492-8bc3-4999-bf14-ae39e661cc78)
-*Data preprocessing pipeline with categorical encoding functions, showing transformed dataset with encoded categories and feature preparation for model training.*
+*Advanced categorical encoding pipeline mapping text categories to numerical labels with data transformation functions for model-ready preprocessing.*
 
 ### 6. **HuggingFace Transformers Integration**
 ![Image 6](https://github.com/user-attachments/assets/06cadacc-8e69-4e9d-9f8a-750dda638103)
-*Transformers library configuration showing DistilBERT tokenizer setup with detailed model specifications and tokenization parameters for text classification.*
+*DistilBertTokenizer configuration (version 4.51.3) with proper tokenization parameters, special tokens handling, and transformer library setup for text processing.*
 
-### 7. **SageMaker Model Deployment Setup**
+### 7. **SageMaker Model Deployment with HuggingFace**
 ![Image 7](https://github.com/user-attachments/assets/34e74719-5c14-4694-9786-fb62664dee0c)
-*SentimentAnalysis.ipynb showing SageMaker model deployment code with HuggingFaceModel configuration and predictor setup for real-time inference.*
+*SentimentAnalysis.ipynb showing SageMaker model deployment code with HuggingFaceModel configuration, predictor setup, and inference endpoint creation.*
 
-### 8. **Multi-Class Text Classification EDA**
+### 8. **EDA Notebook - Data Loading Pipeline**
 ![Image 8](https://github.com/user-attachments/assets/1d6f1fbc-64a7-40f2-af24-8bff0ed2a1af)
-*EDA_MultiClassTextClassification.ipynb demonstrating comprehensive exploratory data analysis of news dataset with pandas data manipulation and initial data inspection.*
+*EDA_MultiClassTextClassification.ipynb implementing comprehensive data loading from UCI News Aggregator with automated download and extraction workflow.*
 
-### 9. **Dataset Structure & Content Analysis**
+### 9. **Dataset Structure Analysis**
 ![Image 9](https://github.com/user-attachments/assets/a39aeeba-db7d-48d3-8c75-75ac5641d0b6)
-*Detailed dataset examination showing news article structure with titles, URLs, publishers, categories, stories, hostnames, and timestamps for comprehensive data understanding.*
+*Detailed dataset inspection showing complete data structure with publisher information, URLs, categories, timestamps, and article metadata for 422,419 records.*
 
-### 10. **Production Dataset Overview**
+### 10. **Comprehensive Data Exploration**
 ![Image 10](https://github.com/user-attachments/assets/dcb22f8d-ca52-49b8-a6ed-6752d13fd71c)
-*Complete dataset overview displaying the full scope of 422,419 rows × 8 columns with sample records from major news publishers like LA Times, LiveMint, and IFA Magazine.*
+*Advanced data profiling displaying full dataset structure including ID, TITLE, URL, PUBLISHER, CATEGORY, STORY, HOSTNAME, and TIMESTAMP columns with sample entries.*
 
-### 11. **Data Quality Assessment**
+### 11. **Dataset Information and Memory Usage**
 ![Image 11](https://github.com/user-attachments/assets/7f609ba0-6cdf-4325-941f-978624f453dc)
-*Advanced data profiling showing dataset information, memory usage (25.8+ MB), and comprehensive analysis of data types and null values for production readiness.*
+*Technical dataset analysis showing DataFrame structure (422,419 entries, 8 columns) with data types, memory usage (25.8+ MB), and column specifications for production optimization.*
 
-### 12. **Category Distribution Statistics**
+### 12. **Category Distribution Analysis**
 ![Image 12](https://github.com/user-attachments/assets/23caade7-a164-49d0-a57a-7fcc7267ed6c)
-*Statistical analysis revealing precise category distribution with counts and percentages for each news category, essential for balanced model training and evaluation.*
+*Statistical analysis revealing category distribution: Entertainment (159,469), Business (115,967), Science & Technology (108,344), Health (45,639) with data dictionary implementation.*
 
-### 13. **Data Visualization Pipeline**
+### 13. **Data Sampling and Visualization Preparation**
 ![Image 13](https://github.com/user-attachments/assets/fabb7a2b-421d-4513-9b20-6c40534da522)
-*Data visualization workflow with matplotlib/seaborn implementation, including random sampling functions and category distribution analysis for stakeholder reporting.*
+*Random sampling implementation and category analysis pipeline preparing data for visualization, including matplotlib and seaborn integration for business intelligence.*
 
-### 14. **Executive Dashboard Visualization**
+### 14. **Professional Data Visualization**
 ![Image 14](https://github.com/user-attachments/assets/1eb90606-0040-4b7f-b8d1-1018d2cdc441)
-*Professional pie chart visualization showing category distribution: Entertainment (36.1%), Business (27.5%), Science & Technology (25.6%), Health (10.8%).*
+*Publication-ready pie chart showing category distribution: Entertainment (36.1%), Business (27.5%), Science & Technology (25.6%), Health (10.8%) with professional styling.*
 
-### 15. **SageMaker Studio Platform Interface**
+### 15. **SageMaker Studio Dashboard**
 ![Image 15](https://github.com/user-attachments/assets/6cf14c79-50cd-42e8-96f0-451577f1ab60)
-*SageMaker Studio main interface showing integrated development environment with JupyterLab, RStudio, Canvas, Code Editor, and MLflow applications.*
+*Complete SageMaker Studio interface showing JupyterLab environment with running instance (sagemaker-course), demonstrating platform management and workspace organization.*
 
-### 16. **AWS IAM Role Management**
+### 16. **AWS IAM Role Configuration**
 ![Image 16](https://github.com/user-attachments/assets/8bbd9202-50a2-48ed-b024-ce0d0f3565f2)
-*AWS IAM console displaying SageMaker execution role (AmazonSageMaker-ExecutionRole) with proper permissions and policies for secure ML operations.*
+*AWS IAM console showing SageMaker execution role (AmazonSageMaker-ExecutionRole-20250603T151745) with proper permissions and security policies for production deployment.*
 
-### 17. **Production Inference Endpoint**
+### 17. **Production Inference Endpoint Management**
 ![Image 17](https://github.com/user-attachments/assets/00921eca-7ffb-4543-813f-ed5047bc8250)
-*SageMaker endpoints console showing deployed "huggingface-pytorch-inference" endpoint in "InService" status, demonstrating successful production deployment.*
+*SageMaker endpoints console displaying deployed "huggingface-pytorch-inference" endpoint in "InService" status, demonstrating successful real-time inference deployment.*
 
-### 18. **SageMaker Studio Workspace Management**
+### 18. **SageMaker Studio Workspace Overview**
 ![Image 18](https://github.com/user-attachments/assets/2eec0257-8860-4a63-859e-1a8dbacc109c)
-*SageMaker Studio dashboard showing running instances, recent spaces, and workspace management with "sagemaker-course" environment actively running.*
+*SageMaker Studio home dashboard showing recent spaces, running JupyterLab instances, and workspace management with applications integration (JupyterLab, RStudio, Canvas).*
 
-### 19. **Domain Administration Console**
+### 19. **Domain Administration and Governance**
 ![Image 19](https://github.com/user-attachments/assets/35d56523-2ff0-4f95-bd35-df66149b2aa2)
-*SageMaker domains management interface showing domain configuration, user management, and infrastructure administration capabilities.*
+*SageMaker domains management interface showing QuickSetupDomain configuration with creation date, status monitoring, and enterprise governance capabilities.*
 
-### 20. **Project File Structure & Asset Management**
+### 20. **Project Structure and File Organization**
 ![Image 20](https://github.com/user-attachments/assets/72f9c408-8a28-4644-bd78-c99ba2c13eaf)
-*Comprehensive project organization in SageMaker Studio showing multiple notebooks (TrainingNotebook, EDA_MultiClassText, SentimentAnalysis, OptionalExperiment), datasets, and Python scripts.*
+*Organized file structure showing multiple notebooks (TrainingNotebook, EDA_MultiClassTextClassification, SentimentAnalysis, OptionalExperiment), datasets, and scripts with proper version control.*
 
 ---
 
