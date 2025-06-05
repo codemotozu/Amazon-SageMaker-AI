@@ -120,8 +120,8 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 13: Model deployment notebook showing SageMaker model registry integration and deployment pipeline - demonstrating production model packaging and deployment automation*
 
-### 14. add title
-**add subtitle**
+### 14. SageMaker Processing Jobs and Data Pipelines
+**Demonstrating scalable data processing and transformation using SageMaker Processing**
 
 ![Data Processing](https://github.com/user-attachments/assets/3ef212cf-d49f-4f96-a8b0-9d3163715805)
 
