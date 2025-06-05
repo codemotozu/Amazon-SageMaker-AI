@@ -43,8 +43,8 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 2: AWS IAM console showing SageMaker execution role permissions and security policies - demonstrating proper security configuration and access management for ML workloads*
 
-### 3. Model Training and Experimentation
-**Showcasing training job configuration and experiment tracking**
+### 3. Model Deployment and Inference
+**Demonstrating real-time endpoint deployment and model serving capabilities**
 
 ![Training Configuration](https://github.com/user-attachments/assets/d3158a8e-7478-4e0e-80b0-a2318e6f5542)
 
