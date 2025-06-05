@@ -38,7 +38,6 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 ### 2. Security Configuration and Access Management
 **Demonstrating IAM setup and security policies for SageMaker workloads**
-![2](https://github.com/user-attachments/assets/de27db05-a8a5-4d4a-a11b-c33e6761d53d)
 
 ![Development Environment](https://github.com/user-attachments/assets/9d8a2fa4-c931-40cb-9178-3a2cf69421d3)
 
@@ -62,7 +61,6 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 **Demonstrating enterprise-level domain setup and multi-user environment administration**
 
 ![Training Metrics](https://github.com/user-attachments/assets/eb9e3356-b6a3-4b37-b836-7d81c954bd3b)
-![5](https://github.com/user-attachments/assets/892798a6-ceba-4f44-a729-8b010e8cb4fe)
 
 *Screenshot 5: SageMaker Domains console showing domain setup and management - demonstrating proper Studio domain configuration and multi-user environment administration for enterprise ML environments*
 
