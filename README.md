@@ -50,6 +50,9 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 3: SageMaker Endpoints console showing deployed inference endpoints with HuggingFace PyTorch model - demonstrating real-time model deployment and endpoint management capabilities*
 
+## 4. Workspace Management and Project Organization
+**Demonstrating Studio workspace setup and development environment navigation**
+
 ![Experiment Tracking](https://github.com/user-attachments/assets/3fc625b6-e04b-4ea2-8661-a5ad9a31a50c)
 
 *Screenshot 4: SageMaker Studio main dashboard showing workspace overview, recent spaces, and available applications - demonstrating familiarity with the Studio development environment and project organization*
