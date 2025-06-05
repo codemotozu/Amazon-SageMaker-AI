@@ -99,12 +99,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 10: Model evaluation notebook displaying prediction results and performance analysis - demonstrating comprehensive model assessment and validation methodologies*
 
-### 11. add title
-**add subtitle**
+### 11. Data Processing and Feature Engineering
+**Demonstrating advanced data transformation and feature preparation workflows**
 
 ![Pipeline Overview](https://github.com/user-attachments/assets/aaa3cded-fe42-48bf-8625-f7dc579a66a3)
 
-*Screenshot 11: SageMaker Pipelines DAG visualization showing automated ML workflow*
+*Screenshot 11: Feature engineering notebook showing data encoding and transformation pipelines - demonstrating advanced data preprocessing and feature preparation techniques*
 
 ### 12. add title
 **add subtitle**
