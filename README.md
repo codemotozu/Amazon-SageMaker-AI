@@ -36,11 +36,14 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 1: SageMaker Studio main interface showing project organization and resource management*
 
+## 2. Security Configuration and Access Management
+**Demonstrating IAM setup and security policies for SageMaker workloads**
+
 ![Development Environment](https://github.com/user-attachments/assets/9d8a2fa4-c931-40cb-9178-3a2cf69421d3)
 
 *Screenshot 2: AWS IAM console showing SageMaker execution role permissions and security policies - demonstrating proper security configuration and access management for ML workloads*
 
-### 2. Model Training and Experimentation
+### 3. Model Training and Experimentation
 **Showcasing training job configuration and experiment tracking**
 
 ![Training Configuration](https://github.com/user-attachments/assets/d3158a8e-7478-4e0e-80b0-a2318e6f5542)
@@ -55,7 +58,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 5: SageMaker Domains console showing domain setup and management - demonstrating proper Studio domain configuration and multi-user environment administration for enterprise ML environments*
 
-### 3. Model Development and Experimentation
+### 4. Model Development and Experimentation
 **Showcasing ML development workflow and data analysis in SageMaker Studio**
 
 ![Model Registry](https://github.com/user-attachments/assets/2649ea04-bd8a-4e70-8149-67f932e59948)
@@ -66,7 +69,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 7: Model package creation and metadata management for production deployment*
 
-### 4. Endpoint Deployment and Management
+### 5. Endpoint Deployment and Management
 **Showcasing real-time inference infrastructure**
 
 ![Endpoint Configuration](https://github.com/user-attachments/assets/d9e0f1ca-9ef7-41ac-9b41-e183a85d7d7b)
@@ -81,7 +84,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 10: Multi-model endpoint configuration for cost-effective model hosting*
 
-### 5. SageMaker Pipelines and Automation
+### 6. SageMaker Pipelines and Automation
 **Demonstrating MLOps pipeline implementation**
 
 ![Pipeline Overview](https://github.com/user-attachments/assets/aaa3cded-fe42-48bf-8625-f7dc579a66a3)
