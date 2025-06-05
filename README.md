@@ -55,8 +55,8 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 5: SageMaker Domains console showing domain setup and management - demonstrating proper Studio domain configuration and multi-user environment administration for enterprise ML environments*
 
-### 3. Model Registry and Versioning
-**Demonstrating model lifecycle management and governance**
+### 3. Model Development and Experimentation
+**Showcasing ML development workflow and data analysis in SageMaker Studio**
 
 ![Model Registry](https://github.com/user-attachments/assets/2649ea04-bd8a-4e70-8149-67f932e59948)
 
