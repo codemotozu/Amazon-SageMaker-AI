@@ -1,25 +1,3 @@
-![20](https://github.com/user-attachments/assets/c31f1456-3d03-4e98-8393-1b0f2a330ca2)
-![19](https://github.com/user-attachments/assets/be8c0f6d-d11c-4409-92c6-b66b25bcfbd2)
-![18](https://github.com/user-attachments/assets/c0c66934-5d7a-45a3-b673-b3ad13225067)
-![17](https://github.com/user-attachments/assets/0a05f9b8-345f-4360-b9be-6cb56a332462)
-![16](https://github.com/user-attachments/assets/31a975f6-2648-4e3e-93cb-d2cff6c10eb8)
-![15](https://github.com/user-attachments/assets/bd7fae28-4665-42ee-88b4-a5efba24b824)
-![14](https://github.com/user-attachments/assets/7db06903-61bb-4c94-b427-2484932a7d90)
-![13](https://github.com/user-attachments/assets/16610ffc-812b-4212-a097-ff3d1317f59b)
-![12](https://github.com/user-attachments/assets/2cbc3427-8b5d-4b9c-bfd2-9e62165d9ea2)
-![11](https://github.com/user-attachments/assets/64036602-6ff8-408d-b0b6-766ff2d396e0)
-![10](https://github.com/user-attachments/assets/ed457763-efd2-4ee1-9a0b-b4500a946d16)
-![9](https://github.com/user-attachments/assets/26abf30d-b13d-45ff-bb81-f0645bd3e9e6)
-![8](https://github.com/user-attachments/assets/b3c971fe-494d-4187-a00e-676bdf76e96d)
-![7](https://github.com/user-attachments/assets/3d6b2612-c84b-446b-ad77-dd143ce53866)
-![6](https://github.com/user-attachments/assets/155fe9bc-fb53-4035-b431-35c4c2f4f6d0)
-![5](https://github.com/user-attachments/assets/03f76802-dc17-40b8-8c04-92d598e28737)
-![4](https://github.com/user-attachments/assets/8d4cfafa-579c-4567-b2ae-aaca01c1f04e)
-![3](https://github.com/user-attachments/assets/3454a6cc-4c74-4d38-8150-54c921aa6cc3)
-![2](https://github.com/user-attachments/assets/950aa109-9b0b-4e98-ad39-381d54e13896)
-![1](https://github.com/user-attachments/assets/b9c52406-9ae5-4cea-a391-3ad4b4796ab2)
-
-
 # 📰 Multi-Class News Text Classification with Amazon SageMaker
 
 A production-ready machine learning pipeline for news article classification using Amazon SageMaker, HuggingFace Transformers, and DistilBERT. This project demonstrates end-to-end MLOps practices including data preprocessing, model training, deployment, and endpoint management.
