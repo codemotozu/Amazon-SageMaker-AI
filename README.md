@@ -134,12 +134,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 15: Data quality assessment notebook showing validation workflows and data integrity checks - demonstrating systematic data quality assurance processes*
 
-### 16. add title
-**add subtitle**
+### 16. Batch Processing and Large-Scale Data Operations
+**Demonstrating scalable batch processing workflows for production data pipelines**
 
 ![Model Monitoring](https://github.com/user-attachments/assets/18fa9d43-62c2-4120-ae38-858dfcdff477)
 
-*Screenshot 16: Model Monitor configuration for data drift and quality detection*
+*Screenshot 16: Batch processing operations showing large-scale data handling and transformation workflows - demonstrating production-ready batch processing capabilities*
 
 ### 17. add title
 **add subtitle**
