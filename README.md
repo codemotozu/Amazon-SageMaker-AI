@@ -1,30 +1,3 @@
-# Amazon-SageMaker-AI![Captura de pantalla 2025-06-04 235957](https://github.com/user-attachments/assets/e9b9a221-0e21-4e11-879e-06b74abb9f8b)
-![Captura de pantalla 2025-06-04 235904](https://github.com/user-attachments/assets/3c2641de-9c3c-4439-a5fc-86f38067cfaa)
-![Captura de pantalla 2025-06-04 230849](https://github.com/user-attachments/assets/d110d13f-9ae9-4d22-ac71-fe94e29b4979)
-![Captura de pantalla 2025-06-04 225654](https://github.com/user-attachments/assets/16ecb080-18ac-4f6b-8f0d-89ff972421da)
-![Captura de pantalla 2025-06-04 225440](https://github.com/user-attachments/assets/dca67492-8bc3-4999-bf14-ae39e661cc78)
-![Captura de pantalla 2025-06-04 225404](https://github.com/user-attachments/assets/06cadacc-8e69-4e9d-9f8a-750dda638103)
-![Captura de pantalla 2025-06-04 225313](https://github.com/user-attachments/assets/34e74719-5c14-4694-9786-fb62664dee0c)
-![Captura de pantalla 2025-06-04 225250](https://github.com/user-attachments/assets/1d6f1fbc-64a7-40f2-af24-8bff0ed2a1af)
-![Captura de pantalla 2025-06-04 225139](https://github.com/user-attachments/assets/a39aeeba-db7d-48d3-8c75-75ac5641d0b6)
-![Captura de pantalla 2025-06-04 225015](https://github.com/user-attachments/assets/dcb22f8d-ca52-49b8-a6ed-6752d13fd71c)
-![Captura de pantalla 2025-06-03 233944](https://github.com/user-attachments/assets/7f609ba0-6cdf-4325-941f-978624f453dc)
-![Captura de pantalla 2025-06-03 191302](https://github.com/user-attachments/assets/23caade7-a164-49d0-a57a-7fcc7267ed6c)
-![Captura de pantalla 2025-06-05 001141](https://github.com/user-attachments/assets/fabb7a2b-421d-4513-9b20-6c40534da522)
-![Captura de pantalla 2025-06-05 001129](https://github.com/user-attachments/assets/1eb90606-0040-4b7f-b8d1-1018d2cdc441)
-![Captura de pantalla 2025-06-05 001116](https://github.com/user-attachments/assets/6cf14c79-50cd-42e8-96f0-451577f1ab60)
-![Captura de pantalla 2025-06-05 001057](https://github.com/user-attachments/assets/8bbd9202-50a2-48ed-b024-ce0d0f3565f2)
-![Captura de pantalla 2025-06-05 001045](https://github.com/user-attachments/assets/00921eca-7ffb-4543-813f-ed5047bc8250)
-![Captura de pantalla 2025-06-05 001023](https://github.com/user-attachments/assets/2eec0257-8860-4a63-859e-1a8dbacc109c)
-![Captura de pantalla 2025-06-05 000928](https://github.com/user-attachments/assets/35d56523-2ff0-4f95-bd35-df66149b2aa2)
-![Captura de pantalla 2025-06-05 000914](https://github.com/user-attachments/assets/72f9c408-8a28-4644-bd78-c99ba2c13eaf)
-![Captura de pantalla 2025-06-05 000343](https://github.com/user-attachments/assets/37214883-19a6-4ca4-a832-ecc21152e056)
-![Captura de pantalla 2025-06-05 000117](https://github.com/user-attachments/assets/a13b7dac-d241-4705-8d4b-af04cbaf1e74)
-![Captura de pantalla 2025-06-05 000104](https://github.com/user-attachments/assets/e29754a3-53e2-4ed2-ab14-a572dc393773)
-![Captura de pantalla 2025-06-05 000049](https://github.com/user-attachments/assets/c3d122bb-bbee-47a5-82a5-67d6657e745d)
-![Captura de pantalla 2025-06-05 000036](https://github.com/user-attachments/assets/67fea51b-d2b2-4638-858d-158048a23a12)
-
-
 # Amazon SageMaker MLOps Portfolio
 
 ## 🎯 Executive Summary
@@ -72,85 +45,85 @@ Developed an enterprise-grade text classification system capable of automaticall
 
 ## 🔬 Detailed Technical Implementation
 
-### 1. **SageMaker Studio Environment Setup**
+### 1. **Python Data Processing Script Development**
 ![Image 1](https://github.com/user-attachments/assets/e9b9a221-0e21-4e11-879e-06b74abb9f8b)
-*Advanced Python environment with ML libraries (PyTorch, Transformers, Pandas) configured for scalable text processing and feature engineering.*
+*SageMaker Studio IDE showing scripty.py with advanced Python code for text classification, including torch, transformers, and data preprocessing functions with categorical encoding.*
 
-### 2. **HuggingFace Model Training Configuration**
+### 2. **SageMaker Training Job Configuration**
 ![Image 2](https://github.com/user-attachments/assets/3c2641de-9c3c-4439-a5fc-86f38067cfaa)
-*Professional SageMaker training job setup with HuggingFace estimator, proper IAM role configuration, and optimized hyperparameters for distributed training.*
+*TrainingNotebook.ipynb demonstrating HuggingFace estimator setup in SageMaker with proper IAM role configuration, hyperparameters, and training job execution.*
 
-### 3. **Large-Scale Data Engineering Pipeline**
+### 3. **Data Ingestion & UCI Dataset Integration**
 ![Image 3](https://github.com/user-attachments/assets/d110d13f-9ae9-4d22-ac71-fe94e29b4979)
-*Robust data ingestion from UCI repository with automated preprocessing, category mapping, and data validation for production ML workflows.*
+*OptionalExperimentNotebook.ipynb showing data loading pipeline from UCI News Aggregator dataset with URL retrieval, extraction, and preprocessing workflow.*
 
-### 4. **Data Quality & Distribution Analysis**
+### 4. **Large-Scale Dataset Analysis Results**
 ![Image 4](https://github.com/user-attachments/assets/16ecb080-18ac-4f6b-8f0d-89ff972421da)
-*Comprehensive dataset analysis revealing balanced distribution across categories: Entertainment (159K), Business (116K), Science & Technology (108K), Health (46K) articles.*
+*Dataset analysis output showing successful loading of 422,419 news articles with category distribution: Entertainment (159,469), Business (115,967), Science (108,344), Health (45,639).*
 
-### 5. **Advanced Feature Engineering**
+### 5. **Text Preprocessing & Feature Engineering**
 ![Image 5](https://github.com/user-attachments/assets/dca67492-8bc3-4999-bf14-ae39e661cc78)
-*Sophisticated text preprocessing pipeline with categorical encoding and transformer-ready data preparation for optimal model performance.*
+*Data preprocessing pipeline with categorical encoding functions, showing transformed dataset with encoded categories and feature preparation for model training.*
 
-### 6. **State-of-the-Art Model Configuration**
+### 6. **HuggingFace Transformers Integration**
 ![Image 6](https://github.com/user-attachments/assets/06cadacc-8e69-4e9d-9f8a-750dda638103)
-*Expert-level HuggingFace DistilBERT tokenizer configuration with optimized parameters for production text classification tasks.*
+*Transformers library configuration showing DistilBERT tokenizer setup with detailed model specifications and tokenization parameters for text classification.*
 
-### 7. **Production Model Deployment**
+### 7. **SageMaker Model Deployment Setup**
 ![Image 7](https://github.com/user-attachments/assets/34e74719-5c14-4694-9786-fb62664dee0c)
-*Enterprise-grade SageMaker model deployment with HuggingFace integration, demonstrating real-time inference capabilities and production readiness.*
+*SentimentAnalysis.ipynb showing SageMaker model deployment code with HuggingFaceModel configuration and predictor setup for real-time inference.*
 
-### 8. **Comprehensive Exploratory Data Analysis**
+### 8. **Multi-Class Text Classification EDA**
 ![Image 8](https://github.com/user-attachments/assets/1d6f1fbc-64a7-40f2-af24-8bff0ed2a1af)
-*Professional EDA workflow analyzing news data structure, publisher diversity, and content patterns to inform model architecture decisions.*
+*EDA_MultiClassTextClassification.ipynb demonstrating comprehensive exploratory data analysis of news dataset with pandas data manipulation and initial data inspection.*
 
-### 9. **Multi-Source Data Validation**
+### 9. **Dataset Structure & Content Analysis**
 ![Image 9](https://github.com/user-attachments/assets/a39aeeba-db7d-48d3-8c75-75ac5641d0b6)
-*Detailed data quality assessment with URL validation, publisher analysis, and timestamp verification ensuring data integrity for production systems.*
+*Detailed dataset examination showing news article structure with titles, URLs, publishers, categories, stories, hostnames, and timestamps for comprehensive data understanding.*
 
-### 10. **Enterprise Data Management**
+### 10. **Production Dataset Overview**
 ![Image 10](https://github.com/user-attachments/assets/dcb22f8d-ca52-49b8-a6ed-6752d13fd71c)
-*Advanced dataset inspection showcasing ability to handle complex, multi-dimensional data with proper schema validation and data lineage tracking.*
+*Complete dataset overview displaying the full scope of 422,419 rows × 8 columns with sample records from major news publishers like LA Times, LiveMint, and IFA Magazine.*
 
-### 11. **Production-Grade Data Profiling**
+### 11. **Data Quality Assessment**
 ![Image 11](https://github.com/user-attachments/assets/7f609ba0-6cdf-4325-941f-978624f453dc)
-*Comprehensive dataset profiling (422,419 rows × 8 columns) with memory optimization and data type analysis for efficient processing in production environments.*
+*Advanced data profiling showing dataset information, memory usage (25.8+ MB), and comprehensive analysis of data types and null values for production readiness.*
 
-### 12. **Statistical Analysis & Business Intelligence**
+### 12. **Category Distribution Statistics**
 ![Image 12](https://github.com/user-attachments/assets/23caade7-a164-49d0-a57a-7fcc7267ed6c)
-*Advanced category distribution analysis providing business insights for model performance optimization and class imbalance handling.*
+*Statistical analysis revealing precise category distribution with counts and percentages for each news category, essential for balanced model training and evaluation.*
 
-### 13. **Data Visualization & Insights**
+### 13. **Data Visualization Pipeline**
 ![Image 13](https://github.com/user-attachments/assets/fabb7a2b-421d-4513-9b20-6c40534da522)
-*Professional data visualization pipeline with random sampling and category analysis for stakeholder communication and model validation.*
+*Data visualization workflow with matplotlib/seaborn implementation, including random sampling functions and category distribution analysis for stakeholder reporting.*
 
 ### 14. **Executive Dashboard Visualization**
 ![Image 14](https://github.com/user-attachments/assets/1eb90606-0040-4b7f-b8d1-1018d2cdc441)
-*Publication-ready pie chart visualization (Entertainment 36.1%, Business 27.5%, Science & Technology 25.6%, Health 10.8%) demonstrating data storytelling capabilities.*
+*Professional pie chart visualization showing category distribution: Entertainment (36.1%), Business (27.5%), Science & Technology (25.6%), Health (10.8%).*
 
-### 15. **SageMaker Studio Platform Management**
+### 15. **SageMaker Studio Platform Interface**
 ![Image 15](https://github.com/user-attachments/assets/6cf14c79-50cd-42e8-96f0-451577f1ab60)
-*Complete SageMaker Studio workspace showcasing JupyterLab, RStudio, Canvas integration and application management for enterprise ML development.*
+*SageMaker Studio main interface showing integrated development environment with JupyterLab, RStudio, Canvas, Code Editor, and MLflow applications.*
 
-### 16. **AWS Security & IAM Configuration**
+### 16. **AWS IAM Role Management**
 ![Image 16](https://github.com/user-attachments/assets/8bbd9202-50a2-48ed-b024-ce0d0f3565f2)
-*Professional AWS IAM role configuration for SageMaker execution with proper security policies, demonstrating enterprise-grade access management expertise.*
+*AWS IAM console displaying SageMaker execution role (AmazonSageMaker-ExecutionRole) with proper permissions and policies for secure ML operations.*
 
 ### 17. **Production Inference Endpoint**
 ![Image 17](https://github.com/user-attachments/assets/00921eca-7ffb-4543-813f-ed5047bc8250)
-*Live production endpoint ("huggingface-pytorch-inference") showing "InService" status, demonstrating successful model deployment and real-time inference capabilities.*
+*SageMaker endpoints console showing deployed "huggingface-pytorch-inference" endpoint in "InService" status, demonstrating successful production deployment.*
 
-### 18. **SageMaker Workspace Management**
+### 18. **SageMaker Studio Workspace Management**
 ![Image 18](https://github.com/user-attachments/assets/2eec0257-8860-4a63-859e-1a8dbacc109c)
-*Advanced SageMaker Studio management interface showing running instances, workspace organization, and development environment optimization.*
+*SageMaker Studio dashboard showing running instances, recent spaces, and workspace management with "sagemaker-course" environment actively running.*
 
-### 19. **Domain & Infrastructure Administration**
+### 19. **Domain Administration Console**
 ![Image 19](https://github.com/user-attachments/assets/35d56523-2ff0-4f95-bd35-df66149b2aa2)
-*Enterprise SageMaker domain configuration with multi-user management, demonstrating infrastructure administration and governance capabilities.*
+*SageMaker domains management interface showing domain configuration, user management, and infrastructure administration capabilities.*
 
-### 20. **Development Environment & Asset Management**
+### 20. **Project File Structure & Asset Management**
 ![Image 20](https://github.com/user-attachments/assets/72f9c408-8a28-4644-bd78-c99ba2c13eaf)
-*Organized project structure with multiple notebooks, datasets, and scripts showcasing professional development practices and asset management.*
+*Comprehensive project organization in SageMaker Studio showing multiple notebooks (TrainingNotebook, EDA_MultiClassText, SentimentAnalysis, OptionalExperiment), datasets, and Python scripts.*
 
 ---
 
