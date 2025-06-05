@@ -53,7 +53,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 ![Training Metrics](https://github.com/user-attachments/assets/eb9e3356-b6a3-4b37-b836-7d81c954bd3b)
 
-*Screenshot 5: Real-time training metrics and CloudWatch integration for monitoring*
+*Screenshot 5: SageMaker Domains console showing domain setup and management - demonstrating proper Studio domain configuration and multi-user environment administration for enterprise ML environments*
 
 ### 3. Model Registry and Versioning
 **Demonstrating model lifecycle management and governance**
