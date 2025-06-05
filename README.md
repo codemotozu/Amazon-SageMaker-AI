@@ -45,7 +45,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 ![Training Configuration](https://github.com/user-attachments/assets/d3158a8e-7478-4e0e-80b0-a2318e6f5542)
 
-*Screenshot 3: Training job configuration with hyperparameter settings and resource allocation*
+*Screenshot 3: SageMaker Endpoints console showing deployed inference endpoints with HuggingFace PyTorch model - demonstrating real-time model deployment and endpoint management capabilities*
 
 ![Experiment Tracking](https://github.com/user-attachments/assets/3fc625b6-e04b-4ea2-8661-a5ad9a31a50c)
 
