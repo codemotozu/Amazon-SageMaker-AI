@@ -57,6 +57,9 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 4: SageMaker Studio main dashboard showing workspace overview, recent spaces, and available applications - demonstrating familiarity with the Studio development environment and project organization*
 
+## 5. Infrastructure and Domain Configuration
+**Demonstrating enterprise-level domain setup and multi-user environment administration**
+
 ![Training Metrics](https://github.com/user-attachments/assets/eb9e3356-b6a3-4b37-b836-7d81c954bd3b)
 
 *Screenshot 5: SageMaker Domains console showing domain setup and management - demonstrating proper Studio domain configuration and multi-user environment administration for enterprise ML environments*
