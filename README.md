@@ -60,7 +60,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 ![Model Registry](https://github.com/user-attachments/assets/2649ea04-bd8a-4e70-8149-67f932e59948)
 
-*Screenshot 6: SageMaker Model Registry showing versioned models with approval workflow*
+*Screenshot 6: Jupyter notebook in SageMaker Studio showing exploratory data analysis and model development workflow - demonstrating hands-on ML development and experimentation capabilities*
 
 ![Model Package Management](https://github.com/user-attachments/assets/76bf6956-bf2d-49cf-95be-77478ea9ce3a)
 
