@@ -16,7 +16,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 - Multi-model endpoints optimization
 
 ### ✅ MLOps Pipeline Management
-- SageMaker Pipelines for automated workflows
+- ML development workflows and pipeline design
 - CI/CD integration for model deployment
 - Model monitoring and data drift detection
 
@@ -111,7 +111,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 ![Pipeline Execution](https://github.com/user-attachments/assets/298a0cd1-327f-4fde-a197-bf63ece465f5)
 
-*Screenshot 12: Model training execution showing DistilBert implementation and training workflow - demonstrating production-ready model training and execution monitoring*
+*Screenshot 12: Model training execution showing DistilBert implementation and training workflow - demonstrating advanced model training and execution monitoring*
 
 ### 13. Model Registry and Deployment Pipeline
 **Demonstrating model packaging and automated deployment workflows**
@@ -120,12 +120,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 13: Model deployment notebook showing SageMaker model registry integration and deployment pipeline - demonstrating production model packaging and deployment automation*
 
-### 14. SageMaker Processing Jobs and Data Pipelines
-**Demonstrating scalable data processing and transformation using SageMaker Processing**
+### 14. Data Processing and Transformation Workflows
+**Demonstrating scalable data processing and transformation in SageMaker Studio**
 
 ![Data Processing](https://github.com/user-attachments/assets/3ef212cf-d49f-4f96-a8b0-9d3163715805)
 
-*Screenshot 14: SageMaker Processing jobs for data transformation and feature engineering*
+*Screenshot 14: Data processing workflows for transformation and feature engineering in SageMaker Studio*
 
 ### 15. Data Quality Assessment and Validation
 **Demonstrating comprehensive data validation and quality assurance workflows**
@@ -134,12 +134,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 15: Data quality assessment notebook showing validation workflows and data integrity checks - demonstrating systematic data quality assurance processes*
 
-### 16. Batch Processing and Large-Scale Data Operations
-**Demonstrating scalable batch processing workflows for production data pipelines**
+### 16. Large-Scale Data Analysis and Operations
+**Demonstrating comprehensive data analysis workflows for ML pipelines**
 
 ![Model Monitoring](https://github.com/user-attachments/assets/18fa9d43-62c2-4120-ae38-858dfcdff477)
 
-*Screenshot 16: Batch processing operations showing large-scale data handling and transformation workflows - demonstrating production-ready batch processing capabilities*
+*Screenshot 16: Large-scale data analysis showing systematic data handling and transformation workflows - demonstrating advanced data analysis capabilities*
 
 ### 17. Data Profiling and Statistical Analysis
 **Demonstrating comprehensive data profiling and statistical assessment workflows**
@@ -155,13 +155,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 18: Advanced preprocessing showing categorical encoding and data transformation - demonstrating complex feature engineering methodologies*
 
-### 19. Production Data Processing Workflows  
+### 19. Advanced Data Processing Workflows
 **Showcasing systematic data processing and manipulation operations**
 
 ![Processing Results](https://github.com/user-attachments/assets/b2fd21dd-019b-4667-b554-5b8e4bfc7df7)
 
-*Screenshot 19: Data processing workflows showing filtering and manipulation operations - demonstrating production-ready data processing capabilities*
-
+*Screenshot 19: Data processing workflows showing filtering and manipulation operations - demonstrating advanced data processing capabilities*
 
 ### 20. Data Visualization and Insights Generation
 **Demonstrating comprehensive data visualization and analytical insight generation**
@@ -202,7 +201,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 - SageMaker Studio & Notebooks
 - Training Jobs & Hyperparameter Tuning
 - Model Registry & Endpoints
-- SageMaker Pipelines
+- ML Pipeline Development
 - Feature Store & Processing
 - Model Monitor & Clarify
 - Batch Transform
