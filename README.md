@@ -64,7 +64,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 5: SageMaker Domains console showing domain setup and management - demonstrating proper Studio domain configuration and multi-user environment administration for enterprise ML environments*
 
-### 4. Model Development and Experimentation
+### 6. Model Development and Experimentation
 **Showcasing ML development workflow and data analysis in SageMaker Studio**
 
 ![Model Registry](https://github.com/user-attachments/assets/2649ea04-bd8a-4e70-8149-67f932e59948)
@@ -75,7 +75,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 7: Model package creation and metadata management for production deployment*
 
-### 5. Endpoint Deployment and Management
+### 7. Endpoint Deployment and Management
 **Showcasing real-time inference infrastructure**
 
 ![Endpoint Configuration](https://github.com/user-attachments/assets/d9e0f1ca-9ef7-41ac-9b41-e183a85d7d7b)
@@ -90,7 +90,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 10: Multi-model endpoint configuration for cost-effective model hosting*
 
-### 6. SageMaker Pipelines and Automation
+### 8. SageMaker Pipelines and Automation
 **Demonstrating MLOps pipeline implementation**
 
 ![Pipeline Overview](https://github.com/user-attachments/assets/aaa3cded-fe42-48bf-8625-f7dc579a66a3)
@@ -105,7 +105,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 13: Scheduled pipeline executions and trigger configurations*
 
-### 6. Data Processing and Feature Engineering
+### 9. Data Processing and Feature Engineering
 **Showcasing data preparation workflows**
 
 ![Data Processing](https://github.com/user-attachments/assets/3ef212cf-d49f-4f96-a8b0-9d3163715805)
@@ -116,7 +116,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 15: SageMaker Feature Store implementation for feature management and reuse*
 
-### 7. Model Monitoring and Data Quality
+### 10. Model Monitoring and Data Quality
 **Demonstrating production model oversight**
 
 ![Model Monitoring](https://github.com/user-attachments/assets/18fa9d43-62c2-4120-ae38-858dfcdff477)
@@ -127,7 +127,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 17: Data quality monitoring dashboard with statistical analysis*
 
-### 8. Batch Processing and Inference
+### 11. Batch Processing and Inference
 **Showcasing offline processing capabilities**
 
 ![Batch Transform](https://github.com/user-attachments/assets/baa9711c-055f-43fd-9854-e7c6a6e86af4)
@@ -138,7 +138,7 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 
 *Screenshot 19: Batch processing results and output management*
 
-### 9. Cost Optimization and Resource Management
+### 12. Cost Optimization and Resource Management
 **Demonstrating efficient resource utilization**
 
 ![Cost Optimization](https://github.com/user-attachments/assets/7592db08-531b-4ac6-9c94-23cb3fb4b440)
