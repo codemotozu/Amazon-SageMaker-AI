@@ -163,12 +163,12 @@ This repository demonstrates my comprehensive experience with Amazon SageMaker, 
 *Screenshot 19: Data processing workflows showing filtering and manipulation operations - demonstrating production-ready data processing capabilities*
 
 
-### 20. add title
-**add subtitle**
+### 20. Data Visualization and Insights Generation
+**Demonstrating comprehensive data visualization and analytical insight generation**
 
 ![Cost Optimization](https://github.com/user-attachments/assets/7592db08-531b-4ac6-9c94-23cb3fb4b440)
 
-*Screenshot 20: Resource optimization dashboard showing cost analysis and usage patterns*
+*Screenshot 20: Data visualization showing category distribution analysis with professional charts - demonstrating data visualization and insight generation capabilities*
 
 ---
 
